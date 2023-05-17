@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/rhmkstk/actiontest/compare/v2.0.0...v2.1.0) (2023-05-17)
+
+
+### Features
+
+* Create release-1.x.yaml ([b199301](https://github.com/rhmkstk/actiontest/commit/b1993011f77688ff4c79275d325b49a099acc284))
+
 ## [2.0.0](https://github.com/rhmkstk/actiontest/compare/v1.1.0...v2.0.0) (2023-05-17)
 
 
