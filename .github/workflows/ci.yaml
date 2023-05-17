@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - 1.x
+      - main
 
 permissions:
   contents: write
@@ -17,4 +17,3 @@ jobs:
         with:
           release-type: node
           package-name: release-please-action
-          default-branch: 1.x
