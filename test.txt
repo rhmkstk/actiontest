@@ -3,3 +3,4 @@ daha super dosya
 daha da super dosya
 feat degisiklik
 v1 in ilk super degisikligi
+v2 in  super degisikligi
