@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/rhmkstk/actiontest/compare/v1.1.0...v2.0.0) (2023-05-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* **test:** Update test.txt
+
+### Features
+
+* **test:** Update test.txt ([84e8baf](https://github.com/rhmkstk/actiontest/commit/84e8baf9681925fdcfa2de5c9f9d5a75df1691a0))
+
 ## [1.1.0](https://github.com/rhmkstk/actiontest/compare/v1.0.0...v1.1.0) (2023-05-17)
 
 
